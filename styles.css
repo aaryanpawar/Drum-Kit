@@ -1,0 +1,83 @@
+body {
+  text-align: center;
+  background: linear-gradient(to right,#9e43db,	#bfc22c )!important;
+}
+
+h1 {
+  font-size: 7rem;
+  color: #DBEDF3;
+  font-family: "Rancho";
+  text-shadow: 3px 0 #ad4728;
+
+}
+
+button{
+  font-family: 'Rancho';
+}
+
+.W {
+  background-image: url("images/tom1.png");
+}
+
+.A {
+  background-image: url("images/tom2.png");
+}
+
+.S {
+  background-image: url("images/tom3.png");
+}
+
+.D {
+  background-image: url("images/tom4.png");
+}
+
+.J {
+  background-image: url("images/snare.png");
+}
+
+.K {
+  background-image: url("images/crash.png");
+}
+
+.L {
+  background-image: url("images/kick.png");
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 5px solid #2ccac2;
+  font-size: 5rem;
+  line-height: 2;
+  font-weight: 900;
+  color: #f8f4bc;
+  text-shadow: 3px 0 #e06d0e;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: rgb(255, 255, 255);
+}
+
+.page-footer {
+  background: linear-gradient(to right,#9e43db,	#bfc22c )!important;
+  height: 80px;
+  font-size: 10px;
+  font-family: sans-serif;
+  color: #ffffff;
+}
+
